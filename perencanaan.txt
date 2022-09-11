@@ -5,3 +5,5 @@ Perencanaan dalam waktu dekat
 4. koneksi ke git lokal masing-masing
 5. pengaturan user untuk dasboard
 6. buat script untuk update database
+7. test aplikasi
+8. finalisasi
