@@ -3,3 +3,5 @@ Perencanaan dalam waktu dekat
 2. pembagian tugas
 3. mengenalkan repositori github
 4. koneksi ke git lokal masing-masing
+5. buat koding untuk dasboard
+6. pengaturan user
