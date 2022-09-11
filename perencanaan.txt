@@ -1,0 +1,5 @@
+Perencanaan dalam waktu dekat
+1. Koordinasi tim
+2. pembagian tugas
+3. mengenalkan repositori github
+4. koneksi ke git lokal masing-masing
