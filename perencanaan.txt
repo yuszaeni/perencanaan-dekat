@@ -7,4 +7,5 @@ Perencanaan dalam waktu dekat
 6. buat script untuk update database
 7. test aplikasi
 8. finalisasi
-9. pilot project
+9. backup aplikasi
+10. pilot project
