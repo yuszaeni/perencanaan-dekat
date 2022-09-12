@@ -3,8 +3,11 @@ RENCANA-KONTEN
   * ES6
   * Framework Javascript
     ^ Angular
+    ^ View
     ^ React
+- Struktur Data Dasar
 - PHP framework
-  ^ Laravel
+  * Laravel
 - Interview
 - Vlogs
+- Phyton
